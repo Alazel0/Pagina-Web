@@ -17,3 +17,6 @@ def NeoCab():
 
 if __name__=='__main__':
     app.run(host=args.host, port=port, debug=True)
+    
+    else
+        app.run(host=args.host, port=port, debug=True)
