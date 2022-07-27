@@ -1,1 +1,1 @@
-web: gunicorn app:Index.py
+web: gunicorn gettingstarted.wsgi
