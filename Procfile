@@ -1,1 +1,1 @@
-web: python Index.py runserver port
+web:gunicorn gettingstarted.wsgi
